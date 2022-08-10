@@ -2,10 +2,6 @@
 Ali Kaplan
 </h1>
 
-General Manager at [Yazılımcı Mekanı](https://github.com/yazilimcimekani)
-
-I’m currently working on https://alikaplan.glitch.me
-
 ## Get In Touch
 
 - [Instagram](https://instagram.com/alikaplan.60)
