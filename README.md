@@ -2,8 +2,8 @@
 Ali Kaplan
 </h1>
 
-## Get In Touch
-
+## Contact
+- [Discord] Pelerinli#2124
 - [Instagram](https://instagram.com/alikaplan.60)
 
 ## Languages and Tools
