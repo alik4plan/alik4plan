@@ -1,7 +1,8 @@
 <h1 align="center">
 Ali Kaplan
 </h1>
-
+## About Me
+Hello! I'm Ali, I'm 15 y/o interested in C#.
 ## Contact
 - Pelerinli#2124
 - [Instagram](https://instagram.com/alikaplan.60)
