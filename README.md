@@ -3,7 +3,7 @@ Ali Kaplan
 </h1>
 
 ## Contact
-- [Discord] Pelerinli#2124
+- Pelerinli#2124
 - [Instagram](https://instagram.com/alikaplan.60)
 
 ## Languages and Tools
