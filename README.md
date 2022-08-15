@@ -3,7 +3,7 @@ Ali Kaplan
 </h1>
 
 ## About Me
-Hello! I'm Ali, I'm 15 y/o interested in C#.
+Hello! I'm Ali, I'm 15 y/o interested in C#, SQL, HTML, CSS.
 
 ## Contact
 - Pelerinli#2124
