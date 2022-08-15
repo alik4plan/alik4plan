@@ -12,6 +12,6 @@ Hello! I'm Ali, I'm 15 y/o interested in C#, SQL, HTML, CSS.
 ## Languages and Tools
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="c#" width="40" height="40"/>
-  
+<br>
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="40" height="40"/>
 </p>
