@@ -6,8 +6,8 @@ Ali Kaplan
 Hello! I'm Ali.
 
 ## Contact
-- Pelerinli#2124
-- [Instagram](https://instagram.com/alikaplan.60)
+- Pelerinli#2779
+- [Instagram](https://instagram.com/alikaplanxyz)
 
 ## Languages and Tools
 <p align="left">
