@@ -1,9 +1,9 @@
 <h1 align="center">
-Ali Kaplan
+Hi 👋, I'm Ali
 </h1>
 
 ## About Me
-Hello! I'm Ali.
+Hello! I'm Ali. I'm 16 y/o.
 
 ## Contact
 - Pelerinli#2779
