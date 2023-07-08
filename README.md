@@ -5,7 +5,7 @@ Hi 👋, I'm Ali
 ## About Me
 Hello! I'm Ali. I'm 16 y/o.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/602168897948483589)](https://discord.com/users/602168897948483589)
+[![Discord Presence](https://lanyard.cnrad.dev/api/782942995090636840)](https://discord.com/users/782942995090636840)
 
 ## Contact
 - [Instagram](https://instagram.com/alikaplanxyz)
