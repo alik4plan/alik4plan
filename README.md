@@ -6,7 +6,7 @@ Hi 👋, I'm Ali
 Hello! I'm Ali. I'm 16 y/o.
 
 ## Contact
-- [Instagram](https://instagram.com/alikaplanxyz)
+- [Instagram](https://instagram.com/alikaplan1881)
 
 ## Languages and Tools
 <p align="left">
