@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi 👋, I'm Ali
 </h1>
-![image](https://github.com/user-attachments/assets/c4dadc47-053a-4c7e-afb9-947a28209762)
+<img src = "https://github.com/user-attachments/assets/c4dadc47-053a-4c7e-afb9-947a28209762" alt="Desktop Screenshot">
 
 ## Languages and Tools
 <p align="left">
